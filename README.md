@@ -1,1 +1,4 @@
-# studybud_django
+# Django overview
+# Profile
+# Activity Feed
+# Chatrooms
